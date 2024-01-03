@@ -14,6 +14,6 @@ export const ProjectList = [
         name: "Personal Website",
         image: websiteicon,
         skill: "Node.Js, React.JS, CSS, JavaScript, Git, NPM",
-        link: "https://github.com/adamdmeg/personal-portfolio",
+        link: "https://github.com/adamdmeg/megan-adams",
     }
 ]
