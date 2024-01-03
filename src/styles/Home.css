@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Inria+Serif:wght@400&display=swap');
+
+
+.home {
+    width: 100%;
+    align-items: center;
+    font-family: "Inria Serif", serif;
+    color: white;
+  }
+  
+  .about {
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    color: black;
+  }
+  
+  .about h2 {
+    font-family: "Inria Serif", serif;
+    font-style: italic;
+    font-size: 70px;
+    color: black;
+    height: 40%;
+  }
+  
+  .about .prompt {
+    width: 50%;
+    font-size: 30px;
+    padding-left: 10%;
+  }
+
+  .prompt svg {
+    font-size: 60px;
+    margin: 5px;
+    color: black;
+    padding-top: 2%;
+  }
+
+ .about-image img {
+  width: 70%;
+  height: auto;
+ }
+  
+  .skills {
+    font-size: 35px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f5f5f5;
+    color: black;
+    font-family: "Inria Serif", serif;
+    text-align: center;
+  }
+  
+  .skills h1 {
+    color: black;
+    font-family: "Inria Serif", serif;
+    font-style: italic;
+    align-self: center;
+    margin-left: 2%;
+    margin-bottom: 20px; 
+
+  }
+  
+  .skills .list {
+    list-style: none;
+    width: 60%;
+    font-family: "Inria Serif", serif;
+  }
+  
+  .list span {
+    font-size: 20px;
+    color: black
+  }
+  
+  @media only screen and (max-width: 600px) {
+  .about h2 {
+    font-size: 40px;
+  }
+
+  .about .prompt {
+    margin-top: 10px;
+    font-size: 20px;
+    width: 80%;
+    padding: 0;
+  }
+
+  .skills {
+    text-align: center;
+  }
+  .list {
+    padding: 0;
+  }
+
+  .skills h2 {
+    font-size: 30px;
+  }
+
+  .about-image{
+    display: none;
+  }
+}
