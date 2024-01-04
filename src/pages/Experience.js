@@ -58,6 +58,19 @@ function Experience() {
           <h4>Chapel Hill, North Carolina</h4>
           <p> Reached out to over 50 recruiters at 33 different companies in efforts to gain sponsorships for UNC's beginner-friendly hackathon targeted towards women in tech.</p>
         </VerticalTimelineElement>
+        
+        <VerticalTimelineElement 
+          className='vertical-timeline-element--work'
+          date="2023-Present"
+          iconStyle={{background: "#f7dae9"}}
+          icon={<WorkIcon />}
+        >
+          <h3 className='vertical-timeline-element-title'>
+            Undergraduate Teaching Assistant - UNC Department of Computer Science
+          </h3>
+          <h4> Chapel Hill, North Carolina </h4>
+          <p>Responsible for facilitating the learning students and holding office hours for COMP 110, an introductory Python-based computer science class.</p>
+        </VerticalTimelineElement>
 
       </VerticalTimeline>
     </div>
