@@ -15,7 +15,7 @@ function Home() {
         <div className='prompt'>
             <h2>Hello, world!</h2>
 
-            <p>My name is Megan, current sophomore CS major @ UNC-Chapel Hill. Interested in software engineering, computational biology, and machine learning. Thanks for stopping by!</p>
+            <p>My name is Megan, a current sophomore CS major @ UNC-Chapel Hill. Interested in software engineering, computational biology, and machine learning. Thanks for stopping by!</p>
             
             <a href="https://www.linkedin.com/in/megan-adams3/" target="_blank" rel="noopener noreferrer">
               <LinkedInIcon />
