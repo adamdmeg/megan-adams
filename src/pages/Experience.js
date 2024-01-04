@@ -69,7 +69,7 @@ function Experience() {
             Undergraduate Teaching Assistant - UNC Department of Computer Science
           </h3>
           <h4> Chapel Hill, North Carolina </h4>
-          <p>Responsible for facilitating the learning students and holding office hours for COMP 110, an introductory Python-based computer science class.</p>
+          <p>Responsible for facilitating the learning of students and holding office hours for COMP 110, an introductory Python-based computer science class.</p>
         </VerticalTimelineElement>
 
       </VerticalTimeline>
