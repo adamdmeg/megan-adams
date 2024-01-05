@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/www.megan-adams.com/static/css/main.a030db57.css",
-    "main.js": "/www.megan-adams.com/static/js/main.7c93eee3.js",
-    "static/media/WebPic.png": "/www.megan-adams.com/static/media/WebPic.3cae5bc7fc22fcd356ac.png",
-    "static/media/websiteicon.jpeg": "/www.megan-adams.com/static/media/websiteicon.56f97351f0bd2c581968.jpeg",
-    "static/media/bookicon.jpeg": "/www.megan-adams.com/static/media/bookicon.2428178db22a5d89d2d3.jpeg",
-    "index.html": "/www.megan-adams.com/index.html",
-    "main.a030db57.css.map": "/www.megan-adams.com/static/css/main.a030db57.css.map",
-    "main.7c93eee3.js.map": "/www.megan-adams.com/static/js/main.7c93eee3.js.map"
+    "main.css": "/static/css/main.afda8b23.css",
+    "main.js": "/static/js/main.3dc30711.js",
+    "static/media/WebPic.png": "/static/media/WebPic.3cae5bc7fc22fcd356ac.png",
+    "static/media/websiteicon.jpeg": "/static/media/websiteicon.56f97351f0bd2c581968.jpeg",
+    "static/media/bookicon.jpeg": "/static/media/bookicon.2428178db22a5d89d2d3.jpeg",
+    "index.html": "/index.html",
+    "main.afda8b23.css.map": "/static/css/main.afda8b23.css.map",
+    "main.3dc30711.js.map": "/static/js/main.3dc30711.js.map"
   },
   "entrypoints": [
-    "static/css/main.a030db57.css",
-    "static/js/main.7c93eee3.js"
+    "static/css/main.afda8b23.css",
+    "static/js/main.3dc30711.js"
   ]
 }
