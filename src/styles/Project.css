@@ -12,13 +12,13 @@ body {
 
 .projects {
     width: 100%;
-    height: auto;
+    height: 100%;
     display: flex;
     flex: 1;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding-bottom: 20px;
+    padding: 0;
   }
   .projects .projectTitle {
     text-align: center;
