@@ -6,7 +6,7 @@ export const ProjectList = [
     {
         name: "NY Times Best Sellers Search",
         image: bookicon,
-        skill: "HTML, CSS, JavaScript, API",
+        skill: "Express, Node.js, HTML, CSS, JavaScript, API",
         link: "https://github.com/adamdmeg/NewYorkTimesBestSellers",
         video: "https://youtu.be/923MF78IcoE"
     },
