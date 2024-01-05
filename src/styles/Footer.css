@@ -3,6 +3,7 @@
     margin-top: auto;
     height: 200px;
     background: #F5F1F3;
+    display: flex;
     justify-content: center;
     align-items: center;
   }
