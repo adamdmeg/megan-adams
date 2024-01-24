@@ -56,12 +56,17 @@ function Home() {
 
           <li className = "item">
             <h2> Languages </h2>
-            <span>JavaScript, Java, Python</span>
+            <span>Java, Python, JavaScript, C</span>
           </li>
 
           <li className = "item">
             <h2> Software </h2>
-            <span>GitHub, Git, Tableau, VS Code, IntelliJ IDEA</span>
+            <span>GitHub, Tableau, VS Code, IntelliJ IDEA</span>
+          </li>
+
+          <li className = "item">
+            <h2>Environments</h2>
+            <span>Linux</span>
           </li>
 
         </ol>
